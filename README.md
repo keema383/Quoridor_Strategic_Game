@@ -35,7 +35,7 @@ Quoridor_Strategic_Game/
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. **Clone the repository:**
    ```bash
@@ -60,7 +60,7 @@ Quoridor_Strategic_Game/
 
 ---
 
-## 🛠 Technologies
+## Technologies
 
 - Python 3.x
 - PyGame
@@ -68,7 +68,7 @@ Quoridor_Strategic_Game/
 
 ---
 
-## 👨‍💻 Authors
+## Authors
 
 This project was developed as part of *CS246: Artificial Intelligence*.
 
